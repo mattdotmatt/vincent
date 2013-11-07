@@ -1,6 +1,6 @@
 {
   "name": "hubot",
-  "version": "2.6.2",
+  "version": "2.6.2-13",
   "author": {
     "name": "hubot"
   },
@@ -46,5 +46,12 @@
     "shasum": "4175fd648927c920942538e08fa0dac2bbaa6582"
   },
   "_from": "hubot@",
-  "_resolved": "https://registry.npmjs.org/hubot/-/hubot-2.6.2.tgz"
+  "_resolved": "https://registry.npmjs.org/hubot/-/hubot-2.6.2.tgz",
+  "subdomain": "mattdotmatt-vincent",
+  "scripts": {
+    "start": "./bin/hubot.js"
+  },
+  "env": {
+    "HUBOT_NAME": "vincent"
+  }
 }

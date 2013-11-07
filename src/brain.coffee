@@ -2,6 +2,7 @@
 
 User = require './user'
 
+
 class Brain extends EventEmitter
   # Represents somewhat persistent storage for the robot. Extend this.
   #

@@ -1,5 +1,6 @@
 {EventEmitter} = require 'events'
 
+
 class Adapter extends EventEmitter
   # An adapter is a specific interface to a chat source for robots.
   #

@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/robot.js" />
+        <item url="file://$PROJECT_DIR$/src/user.js" />
+        <item url="file://$PROJECT_DIR$/src/listener.js" />
+        <item url="file://$PROJECT_DIR$/src/response.js" />
+        <item url="file://$PROJECT_DIR$/src/creator.js" />
+        <item url="file://$PROJECT_DIR$/bin/hubot.js" />
+        <item url="file://$PROJECT_DIR$/src/adapter.js" />
+        <item url="file://$PROJECT_DIR$/src/message.js" />
+        <item url="file://$PROJECT_DIR$/index.js" />
+        <item url="file://$PROJECT_DIR$/src/brain.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/robot.js" />
+      <root url="file://$PROJECT_DIR$/src/user.js" />
+      <root url="file://$PROJECT_DIR$/src/listener.js" />
+      <root url="file://$PROJECT_DIR$/src/response.js" />
+      <root url="file://$PROJECT_DIR$/src/creator.js" />
+      <root url="file://$PROJECT_DIR$/bin/hubot.js" />
+      <root url="file://$PROJECT_DIR$/src/adapter.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/src/message.js" />
+      <root url="file://$PROJECT_DIR$/src/brain.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
